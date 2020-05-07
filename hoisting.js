@@ -12,10 +12,8 @@ function crazy() {
   // fix the code in here:
   thisIsCrazy();
 
-  var thisIsCrazy = function (){
+  var thisIsCrazy = function  "hey!!!"() {
     console.log("hey!!!");
-  }
-  return "hey!!!";
 }
 function sayMyName() {
   // fix the code in here:
